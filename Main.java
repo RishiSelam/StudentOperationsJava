@@ -1,7 +1,7 @@
 // Main.java - Menu-driven program for student management
-// Name: [Your Name]
-// PRN: [Your PRN]
-// Batch: [Your Batch]
+// Name: Rishi Selam
+// PRN: 23070126107
+// Batch: B2
 
 import java.util.*;
 
