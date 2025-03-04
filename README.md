@@ -18,3 +18,4 @@ The system includes the following core functionalities:
 Each function is implemented in `StudentOperations.java`, while `Main.java` handles user interactions through a menu-driven interface.
 
 ## 📂 Project Structure
+📦 StudentManagementSystem ┣ 📜 Student.java # Defines the Student class and attributes ┣ 📜 StudentOperations.java # Contains core functionalities (CRUD operations) ┣ 📜 Main.java # Handles user input and menu navigation ┣ 📜 README.md # Project documentation
